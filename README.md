@@ -1,8 +1,8 @@
-# scientific-notation-cpp
+# numeric-computation-system-cpp
 
 # Overview
 
-ScientificNotation is a C++ class that represents extremely large numeric values using scientific notation (coefficient + base-10 exponent). This design prevents overflow issues that occur with built-in data types such as `int` and `long long` when values grow beyond their storage limits.
+The Numeric Computation System involves a ScientificNotation C++ class that represents extremely large numeric values using scientific notation (coefficient + base-10 exponent). This design prevents overflow issues that occur with built-in data types such as `int` and `long long` when values grow beyond their storage limits.
 
 The objective of the project is to design a custom numeric type that supports arithmetic operations, maintains normalized scientific notation format, and demonstrates proper object-oriented programming practices.
 
